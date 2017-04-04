@@ -1,9 +1,9 @@
 import os
 from slackclient import SlackClient
 
-SLACK_BOT_TOKEN = "xoxb-163835234100-8GTzB1s26pQklXTpx4a5Uk6Z"
+SLACK_BOT_TOKEN = 
 
-BOT_NAME = 'jarvis'
+BOT_NAME = 
 
 slack_client = SlackClient(os.environ.get('SLACK_BOT_TOKEN'))
 
