@@ -1,0 +1,10 @@
+{
+  "name": "slackbot-aiml",
+  "description": "AIML Slackbot",
+  "keyword": [
+    "slack",
+    "python",
+    "AIML"
+  ],
+  "repository": "https://github.com/mfurman/slackbot-aiml/"
+}
